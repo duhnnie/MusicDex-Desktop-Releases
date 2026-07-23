@@ -6,7 +6,7 @@
 
 Muxie is capable of scrobbling from following devices:
 
-- [iPod classic (Late 2019)](https://support.apple.com/en-us/103823#ipod) with software updated to 2.0.4 Mac formatted. The iPod Classic Late 2019 is, according [Wikipedia](https://en.wikipedia.org/wiki/IPod_Classic#Models), 6th generation, and according many users, 7th generation.
+- [iPod classic (Late 2009)](https://support.apple.com/en-us/103823#ipod) with software updated to 2.0.4 Mac formatted. The iPod Classic Late 2009 is, according [Wikipedia](https://en.wikipedia.org/wiki/IPod_Classic#Models), 6th generation, and according many users, 7th generation.
 
 - **iPod (5th generation)** also known as iPod with video or Fifth Generation iPod. Firmware 1.3 (6.3), Mac formatted.
 
